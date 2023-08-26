@@ -63,6 +63,42 @@
     },
     "subtitle4Desc": {
       "type": "richtext"
+    },
+    "subtitleFive": {
+      "type": "string"
+    },
+    "subtitle5Desc": {
+      "type": "richtext"
+    },
+    "subtitlesix": {
+      "type": "string"
+    },
+    "subtitle6Desc": {
+      "type": "richtext"
+    },
+    "subtitleSeven": {
+      "type": "string"
+    },
+    "subtitlle7Desc": {
+      "type": "richtext"
+    },
+    "subtitle8": {
+      "type": "string"
+    },
+    "subtitle8Desc": {
+      "type": "richtext"
+    },
+    "subtitle9": {
+      "type": "string"
+    },
+    "subtitle9Desc": {
+      "type": "richtext"
+    },
+    "subtitle10": {
+      "type": "string"
+    },
+    "subtitle10Desc": {
+      "type": "richtext"
     }
   }
 }
